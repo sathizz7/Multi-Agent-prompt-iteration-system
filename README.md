@@ -5,6 +5,6 @@ st1.py contains the code for multi agent prompt iteration system which runs in a
 
 requirements.txt contain required libraries to  be installed
 
-classification report contain report of the multi agent prompt system
+classification report.txt contain classification report of the multi agent prompt system
 
 classification results conatin the predicted category of the system
