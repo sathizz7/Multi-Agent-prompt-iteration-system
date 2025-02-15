@@ -1,0 +1,304 @@
+Description or Definition or Background Context: Here is a refined definition for the "Description or Definition or Background Context" label:
+
+**Description or Definition or Background Context:**
+
+A passage that provides a detailed explanation, clarification, or contextual information about a topic, concept, or term, aiming to inform, elaborate, or educate the reader. This category includes descriptions that offer characteristic details, definitions that explain the meaning of a term or concept, and background context that sets the stage for understanding a particular issue or situation. The tone is typically neutral and objective, with a focus on explaining and providing context rather than making claims, stating facts, or presenting opinions.
+
+**Key characteristics:**
+
+* Provides explanatory information to help readers understand a topic, concept, or term
+* Offers contextual details, definitions, or background information
+* Tends to be neutral and objective in tone, avoiding personal opinions or biases
+* Focuses on explaining and educating rather than making claims or stating facts
+* May include technical definitions, historical background, or explanatory descriptions
+
+By refining the definition and highlighting the distinct characteristics of this label, we can improve the accuracy of our model and better categorize similar instances in the future.
+Claims / Facts / Data / Observation: Here are the refined definitions, examples, and clarifying criteria for each of the true labels:
+
+**Claims**
+
+A claim is a statement that asserts a belief, opinion, or position without necessarily providing evidence or proof. Claims often express a subjective perspective, interpretation, or evaluation. Typical language patterns that indicate a claim include:
+
+* Statements starting with "I think," "I believe," or "In my opinion"
+* Evaluative language, such as "good," "bad," "better," or "worse"
+* Comparative language, like "the best," "the worst," or "more than"
+
+Examples:
+
+* Clear claim: "The new policy is unfair." (expresses a subjective opinion)
+* Borderline case: "The best pizza in town is at Joe's Pizzeria." (expresses a subjective evaluation, but may be influenced by personal experience)
+
+**Facts**
+
+A fact is a statement that can be verified or proven through empirical evidence, observation, or expert consensus. Facts are typically objective and independent of personal opinions or perspectives. Criteria for facts include:
+
+* Verifiability through reliable sources or sensory evidence
+* Consistency across multiple observations or measurements
+* Lack of evaluative language or subjective interpretation
+
+Examples:
+
+* Indisputable fact: "The Earth orbits the Sun." (verified through scientific observations and evidence)
+* Fact requiring context: "The most popular ice cream flavor is chocolate." (may vary depending on the population, region, or survey)
+
+**Data**
+
+Data refers to discrete, objective, and quantifiable information, often in a structured format. Data points can be numbers, measurements, or categorical values. Characteristics of data include:
+
+* Numerical or categorical values
+* Specific formats, such as tables, charts, or graphs
+* Lack of evaluative language or interpretation
+
+Examples:
+
+* Data point: "The average temperature in July is 25°C." (a numerical value)
+* Data set: "The top 10 most populous cities in the world are..." (a structured list of categorical values)
+
+**Observations**
+
+An observation is a statement that describes a direct experience, sensory perception, or tangible phenomenon. Observations are typically based on immediate experience or concrete evidence. Characteristics of observations include:
+
+* Descriptive language, focusing on sensory details
+* Lack of interpretation, evaluation, or inference
+* Often use words like "appear," "seem," or "look like"
+
+Examples:
+
+* Observation: "The sky appears blue today." (describes a direct sensory experience)
+* Observation: "The plant has grown 5 cm in the past week." (describes a tangible, measurable phenomenon)
+
+Common pitfalls and areas of confusion:
+
+* Confusing claims with facts or data, especially when evaluative language is used
+* Misclassifying observations as claims or hypotheses, especially when they involve subjective interpretation
+* Failing to consider context or nuance in differentiating between these concepts
+
+Additional subcategories or fine-grained distinctions that may be helpful:
+
+* Subtypes of claims: opinions, beliefs, accusations, or allegations
+* Subtypes of facts: historical facts, scientific facts, or social facts
+* Subtypes of data: quantitative data, qualitative data, or metadata
+* Subtypes of observations: direct observations, indirect observations, or anecdotal evidence
+A Hypothesis, Proposition, or Suggestion seeking feedback/input: **Refined Definition:**
+
+A Hypothesis, Proposition, or Suggestion seeking feedback/input is a statement that presents a tentative or declarative idea, concept, or plan, and explicitly or implicitly invites the audience's opinion, critique, or advice to validate, refine, or improve it. This type of statement is characterized by:
+
+1. **Declarative language**: Using phrases like "I propose," "I suggest," "How about," or "What do you think" to introduce the idea.
+2. **Tentative tone**: Expressing uncertainty, doubt, or openness to alternative perspectives, which encourages the audience to provide feedback.
+3. **Specificity and clarity**: Presenting a well-defined idea or plan, making it clear what the author is seeking feedback on.
+4. **Implicit or explicit call to action**: Inviting the audience to respond, agree, disagree, or provide suggestions to enhance or modify the idea.
+
+**Examples:**
+
+1. **Hypothesis seeking feedback/input**: "Based on the data, I hypothesize that a 10% increase in social media advertising will lead to a 15% increase in sales. Do you think this is a plausible assumption?"
+2. **Proposition seeking feedback/input**: "To improve customer retention, I propose implementing a loyalty rewards program. What are your thoughts on this approach?"
+3. **Suggestion seeking feedback/input**: "Have you considered partnering with influencers to promote our new product line? Would this be an effective marketing strategy?"
+
+These refined definitions and examples aim to capture the essence of a hypothesis, proposition, or suggestion seeking feedback/input, distinguishing them from informal questions and enabling the model to accurately classify these types of texts.
+Reported Issue / Idea / Feedback: Here are the refined definitions for the true label "Reported Issue / Idea / Feedback" with examples:
+
+**Reported Issue:**
+A specific problem or error encountered by a user, which hinders their experience or functionality. It is typically characterized by a descriptive statement of the issue, often with a neutral or negative tone.
+
+Examples:
+
+* "The app crashes when I try to login."
+* "I'm unable to access my account due to an invalid password error."
+* "The website is not loading properly on Chrome."
+
+**Idea:**
+A suggestion or proposal for a new feature, improvement, or innovation. It is often marked by a future-oriented tone, with language that implies a potential solution or enhancement.
+
+Examples:
+
+* "It would be great if the app could sync with my calendar."
+* "Can you add a dark mode feature to the website?"
+* "I think it would be awesome if the product had a customizable dashboard."
+
+**Feedback:**
+An evaluation or opinion about a product, service, or experience. It typically expresses a subjective judgment or sentiment, often with a positive, negative, or neutral tone.
+
+Examples:
+
+* "The quality of the material is not as expected."
+* "I love the new design, it's so visually appealing!"
+* "The customer support team was really helpful and responsive."
+
+To distinguish "Reported Issue / Idea / Feedback" from "Description or Definition or Background Context", look for the following key differences:
+
+* "Description or Definition or Background Context" typically provides a factual or informative statement, whereas "Reported Issue / Idea / Feedback" statements are more goal-oriented, expressing a problem, suggestion, or opinion.
+* The tone and language used in "Reported Issue / Idea / Feedback" statements are often more personal and experiential, whereas "Description or Definition or Background Context" statements are generally more objective and neutral.
+
+By applying these refined definitions and examples, the model can better classify and distinguish between "Reported Issue / Idea / Feedback" and "Description or Definition or Background Context", leading to improved accuracy and more effective user engagement.
+A Proposal that can still be discussed further: Here is a refined definition for "A Proposal that can still be discussed further":
+
+**Definition:**
+
+"A Proposal that can still be discussed further" refers to a statement that presents a potential solution, idea, or suggestion that is open to debate, refinement, or modification. It often includes phrases such as "We could...", "One option is...", "I propose that...", or "What if we...", and implies that input, discussion, or negotiation from others is invited before a final decision is made. This type of proposal is distinct from open-ended questions, which typically begin with words like "what", "how", or "why", and are intended to elicit information or opinions rather than propose a solution.
+
+**Examples:**
+
+* "We could implement a new marketing strategy to increase sales."
+* "One option is to outsource the project to a third-party vendor."
+* "I propose that we allocate more resources to the R&D department."
+* "What if we were to launch a beta version of the product first?"
+* "Let's consider partnering with a startup to accelerate innovation."
+* "An alternative approach would be to revise our pricing strategy."
+* "How about we pilot the new program in a smaller market first?"
+
+This refined definition and examples aim to clarify the distinction between proposals that are open to discussion and open-ended questions that seek information or opinions. By recognizing the characteristic phrases and language used in proposals, the model can improve its accuracy in identifying "A Proposal that can still be discussed further".
+Open-ended Question (normally WH Questions): Here is a refined definition for Open-ended Question (normally WH Questions):
+
+**Refined Definition:**
+
+An Open-ended Question is a type of question that encourages discussion, reflection, or elaboration, and cannot be answered with a simple "yes" or "no." It typically begins with a WH word (what, how, why, etc.) and is designed to prompt exploration, thought, and analysis. Open-ended Questions require the responder to provide a detailed explanation, interpretation, or opinion, and often sparks a conversation or debate.
+
+**Characteristics:**
+
+* Encourages discussion, reflection, or elaboration
+* Cannot be answered with a simple "yes" or "no"
+* Requires elaboration or explanation
+* Typically starts with a WH word (what, how, why, etc.)
+* Prompts exploration, thought, and analysis
+* Often sparks a conversation or debate
+
+**Examples:**
+
+* What are the implications of climate change on local communities?
+* How does the author's use of imagery contribute to the overall mood of the story?
+* Why is it important to consider multiple perspectives when making a decision?
+* Can you describe a time when you had to overcome a challenging situation?
+
+**Key differences:**
+
+* Unlike Closed-ended Questions, which seek a specific answer, Open-ended Questions encourage exploration and discussion.
+* Unlike Rhetorical Questions, which are often used to make a point or emphasize a statement, Open-ended Questions are meant to prompt genuine discussion and thought.
+
+**Counterexamples:**
+
+* Do you like ice cream? (Closed-ended Question; can be answered with a simple "yes" or "no")
+* What is the capital of France? (Factual Question; has a specific answer)
+
+This refined definition and accompanying examples aim to provide a clearer understanding of Open-ended Questions, highlighting their unique characteristics and distinguishing them from other types of questions.
+Ask for Recommendation / Suggestion / Example: **New Definition:**
+
+"Ask for Recommendation / Suggestion / Example" refers to a request for guidance, advice, or an illustration to inform a decision, improve a process, or understand a concept. This label captures instances where the speaker explicitly seeks a suggested product, service, resource, idea, or approach to address a specific need or problem, often accompanied by phrases such as "can you recommend," "do you have any suggestions," or "can you provide an example."
+
+**Additional Comments:**
+To further improve the definition, it may be helpful to consider the tone and language used in the request, as genuine requests for recommendations, suggestions, or examples often convey a sense of curiosity, uncertainty, or willingness to learn. Additionally, future refinements could explore the distinction between requests for personal opinions versus expert advice, as well as the role of context in disambiguating similar labels.
+Ask for Help / Support: **Refined Definition for "Ask for Help / Support" Label:**
+
+"Ask for Help / Support" refers to instances where the user explicitly requests assistance, guidance, or direction to overcome a specific challenge, obstacle, or knowledge gap. These requests often involve phrases or keywords indicating a need for aid, such as "can someone help," "I'm stuck," "I need assistance," or "can anyone provide guidance." The tone is typically polite, humble, and open to receiving support.
+
+**Key Characteristics:**
+
+1. **Explicit request for help**: The user clearly states their need for assistance or support.
+2. **Specific challenge or obstacle**: The request is often related to a specific problem, task, or concept the user is struggling with.
+3. **Polite and humble tone**: The language used is respectful, considerate, and open to receiving help.
+4. **Contextual relevance**: The request is often situated within a specific context, such as troubleshooting an error, seeking guidance on a task, or needing clarification on a concept.
+
+**Examples:**
+
+* "Can someone assist me with troubleshooting this error?"
+* "I'm stuck on this problem, can anyone provide guidance?"
+* "How do I get started with [specific task or project]?"
+* "I'm having trouble understanding [concept], could someone explain it to me?"
+* "Is there anyone who can help me with [specific request]?"
+
+**Distinguishing Features from Informal Questions:**
+
+* "Ask for Help / Support" instances typically involve a clear call to action or explicit request for assistance, whereas informal questions might be more open-ended or conversation starters.
+* The tone of "Ask for Help / Support" instances is often more humble and polite, whereas informal questions might be more casual or conversational.
+
+**Common Scenarios or Contexts:**
+
+* Troubleshooting technical issues
+* Seeking guidance on complex tasks or projects
+* Needing clarification on abstract concepts or theories
+* Requesting feedback or review on work or ideas
+* Looking for resources or recommendations
+
+By refining the definition and highlighting the key characteristics of "Ask for Help / Support" instances, we aim to improve the model's ability to accurately classify and respond to users' requests for assistance.
+Resource / Link to be discussed: Here is a refined definition of the true label "Resource / Link to be discussed" based on the provided feedback:
+
+**Refined Definition:**
+
+A Resource / Link to be discussed refers to a credible online source, such as an academic paper, research article, webinar, online course, or government report, that provides valuable information on a specific topic and is intended to spark conversation, invite critique, or encourage further exploration. Unlike Claims / Facts / Data / Observation, which present specific assertions or statistics, a Resource / Link to be discussed offers a broader source of information that supports or relates to the discussion, and is meant to be debated, analyzed, or deliberated upon.
+
+This definition aims to clarify the scope of what constitutes a "Resource" or "Link to be discussed", distinguish it from other labels, and emphasize the discussion aspect that sets it apart.
+Informal question: Here are the refined definitions, examples, and characteristics to help distinguish informal questions from other types of sentences:
+
+**Definition:** An informal question is a casual inquiry or inquiry seeking information, opinion, or clarification in an everyday conversation, often characterized by a conversational tone, relaxed language, and a sense of curiosity or politeness.
+
+**Characteristics:** Informal questions often:
+
+* Use colloquial language, idioms, or slang
+* Have a casual or friendly tone
+* Seek information, opinion, or clarification in everyday situations
+* Are asked in conversational settings, such as social gatherings, casual meetings, or online forums
+* May not require a formal or definitive answer
+* Often begin with words like "what," "how," "where," "when," or "can"
+
+**Examples:**
+
+* "What's the best way to get to the airport from here?"
+* "Do you think it's going to rain tomorrow?"
+* "How's your day going so far?"
+* "Can you pass the salt?"
+* "What's up with the new policy?"
+* "Where's the nearest coffee shop?"
+
+**Usage:** Informal questions are often used in:
+
+* Casual conversations with friends, family, or colleagues
+* Social media platforms or online forums
+* Everyday interactions, like ordering food or asking for directions
+* Relaxing or socializing settings, such as parties or gatherings
+
+**Tone and Context:** Informal questions are typically asked in a friendly, non-threatening, and non-formal tone, using language that is relaxed and conversational. They often arise in everyday situations where people need information, clarification, or opinion to navigate their daily lives.
+
+By refining the definitions and characteristics of informal questions, we can better distinguish them from formal questions, hypotheses, propositions, or suggestions, and improve the model's accuracy in classifying and providing feedback on these types of sentences.
+Informal post (other): Here is a refined definition for "Informal post (other)" that addresses the feedback and expands on the provided example:
+
+**Definition:** An informal post (other) is a casual, conversational, and often subjective online content that lacks a specific goal, agenda, or educational intent. It encompasses a diverse range of personal, social, and recreational expressions, including but not limited to:
+
+* Personal musings, experiences, or reflections
+* Humorous observations, witty remarks, or playful banter
+* Casual opinions, preferences, or recommendations
+* Social updates, behind-the-scenes insights, or daily life vignettes
+* Creative expressions, such as poetry, short stories, or artistic showcases
+* Relatable anecdotes, confessions, or venting sessions
+
+**Characteristics:**
+
+* Tone: Relaxed, conversational, and often friendly or humorous
+* Language: Colloquial, informal, and sometimes slang-heavy
+* Purpose: Primarily social, recreational, or self-expressive rather than persuasive, educational, or promotional
+* Style: Often spontaneous, unstructured, and lacking formal tone or conventions
+
+**Examples:**
+
+* A Twitter thread about a favorite hobby or pastime
+* A Instagram caption sharing a funny photo or meme
+* A blogging entry about a personal struggle or lesson learned
+* A Discord message sharing a funny GIF or inside joke
+* A TikTok video showcasing a creative talent or skill
+
+This definition aims to capture the essence of informal posts that don't fit neatly into other categories, while highlighting their unique characteristics and features. I hope this helps your model better recognize and classify these types of posts!
+Ask for clarification about the topic / section: **Definition:** "Ask for clarification about the topic/section" refers to a type of question or prompt that seeks to gain a deeper understanding of a specific concept, idea, or information within a particular topic or section. These questions typically exhibit the following characteristics:
+
+* **Specificity:** They target a specific aspect or detail within the topic or section, often referencing a previous statement or question.
+* **Purpose:** Their primary goal is to clarify ambiguities, reconcile inconsistencies, or obtain additional information to ensure comprehension.
+* **Tone:** They are often polite, inquiring, and sometimes convey a sense of confusion or uncertainty.
+* **Language patterns:** They frequently employ phrases such as "Can you explain...", "I'm not sure I understand...", "Could you elaborate on...", "How does [concept] relate to...", or "What do you mean by...".
+* **Contextual relevance:** They often arise from a previous discussion, question, or statement, and are intended to clarify or build upon existing information.
+
+**Examples:**
+
+* "Can you provide an example to illustrate how this concept works in practice?"
+* "I'm not sure I understand the difference between [concept A] and [concept B]. Could you explain it further?"
+* "How does this specific method address the issue of [problem]?"
+* "What do you mean by 'abstract' in this context? Can you give me an example?"
+* "Could you elaborate on the significance of [term] in this topic?"
+
+By recognizing these characteristics, tone, and language patterns, you can accurately identify questions or prompts that truly ask for clarification about the topic or section, distinguishing them from informal questions or other types of inquiries.
